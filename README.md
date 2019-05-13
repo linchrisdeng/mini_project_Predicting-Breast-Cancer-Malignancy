@@ -4,7 +4,7 @@ Today, in the USA, about one in eight women has a risk of suffering from breast 
 
 This data can be found on [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29).
 
-Online [notebook]()
+Online [notebook](https://htmlpreview.github.io/?https://github.com/linchrisdeng/mini_project_Predicting-Breast-Cancer-Malignancy/blob/master/pro1-3.html)
 
 This dataset contains:
 
